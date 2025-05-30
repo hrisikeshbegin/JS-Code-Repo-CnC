@@ -1,1 +1,1 @@
-# JS-Code-Repo-CnC
+Watch my JS Learning Curve
